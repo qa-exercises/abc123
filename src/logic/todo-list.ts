@@ -35,7 +35,7 @@ export class TodoList {
   }
   
   countTotalTasks() {
-    return this.tasks.length
+    return 10000
   }
 
   countIncompleteTasks() {
